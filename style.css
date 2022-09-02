@@ -100,14 +100,15 @@ body,html{
 /* KURSLAR */
 .kurslar{
     position: relative;
-    top: 35rem;
+    top: 28rem;
+    height: 100vh;
     display: flex;
     justify-content: center;
     align-items: center;
 }
 .kurs-baslik{
     position: relative;
-    top: 51rem;
+    top: 45rem;
     font-size: 2rem;
     text-align: center;
     color: #0371a0;
