@@ -100,14 +100,14 @@ body,html{
 /* KURSLAR */
 .kurslar{
     position: relative;
-    top: 28rem;
+    top: 35rem;
     display: flex;
     justify-content: center;
     align-items: center;
 }
 .kurs-baslik{
     position: relative;
-    top: 41rem;
+    top: 51rem;
     font-size: 2rem;
     text-align: center;
     color: #0371a0;
@@ -152,7 +152,7 @@ body,html{
 /* birinci */
 .secenekler{
     position: relative;
-    top:80rem;
+    top:90rem;
 }
 .birinci ,.ucuncu{
     background-color: #034967;
